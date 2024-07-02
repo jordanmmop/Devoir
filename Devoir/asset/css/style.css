@@ -1,0 +1,21 @@
+nav{
+    background-color: #2c1d27;
+}
+header{
+    background-color: #782221;
+}
+h2{
+    background-color: #dbc2a4;
+}
+main{
+    background-color: #782221;
+}
+footer{
+    background-color: #782221;
+}
+@import url(https://fonts.google.com/specimen/Lato);
+@import url(https://fonts.google.com/specimen/Raleway);
+p{
+    font-style: url(../police/Raleway-Italic-VariableFont_wght.ttf);
+    font-style: italic;
+}
